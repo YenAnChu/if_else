@@ -1,5 +1,5 @@
 int a = 5;
 int b = 3;
 if (a + b > 10)
-{Console.Writeline("the answear is greater thean 10");
+{Console.Writeline("The answear is greater thean 10");
 }
